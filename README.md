@@ -114,7 +114,7 @@ screenshots/P6.png
 
 ### Register Page
 
-![Register](screenshots/P1.png)
+![image alt](screenshots/P1.png)
 
 ### Login Page
 
