@@ -114,7 +114,7 @@ screenshots/P6.png
 
 ### Register Page
 
-![Register](https://github.com/shiwangi880/job-application-tracker/blob/main/P1.png?raw=true)
+![P1](https://github.com/shiwangi880/job-application-tracker/blob/main/P1.png?raw=true)
 
 ### Login Page
 
