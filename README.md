@@ -103,18 +103,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-screenshots/P1.png
-screenshots/P2.png
-screenshots/P3.png
-screenshots/P4.png
-screenshots/P5.png
-screenshots/P6.png
-
 ```
 
 ### Register Page
 
-![Register](https://github.com/shiwangi880/job-application-tracker/blob/e20dc3e5f5735c913eedee1050544739e9a9b628/screenshots/P1.png)
+![image alt](https://github.com/shiwangi880/job-application-tracker/blob/e20dc3e5f5735c913eedee1050544739e9a9b628/screenshots/P1.png)
 
 ### Login Page
 
