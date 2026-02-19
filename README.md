@@ -107,7 +107,7 @@ npm run dev
 
 ### Register Page
 
-![Register](https://github.com/shiwangi880/job-application-tracker/blob/2732d344aed9f898dde724a397bc7235d834e627/P1.png)
+![Register](screenshots/P1.png)
 
 ### Login Page
 
