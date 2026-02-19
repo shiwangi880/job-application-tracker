@@ -107,27 +107,27 @@ npm run dev
 
 ### Register Page
 
-![Register](screenshots/P1.png)
+![Register](./screenshots/P1.png)
 
 ### Login Page
 
-![Login](screenshots/P2.png)
+![Login](./screenshots/P2.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/P3.png)
+![Dashboard](./screenshots/P3.png)
 
 ### Add Application Modal
 
-![Modal](screenshots/P4.png)
+![Modal](./screenshots/P4.png)
 
 ### Updated Dashboard
 
-![Dashboard](screenshots/P5.png)
+![Dashboard](./screenshots/P5.png)
 
 ### Application
 
-![Appication](screenshots/P6.png)
+![Appication](./screenshots/P6.png)
 
 ---
 
