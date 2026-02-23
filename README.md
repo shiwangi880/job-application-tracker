@@ -103,8 +103,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-```
-
 ### Register Page
 
 ![Register](screenshots/P1.png)
