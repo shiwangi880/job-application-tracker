@@ -123,9 +123,9 @@ npm run dev
 
 ![Dashboard](screenshots/P5.png)
 
-### Application
+### Applications
 
-![Application](screenshots/P6.png)
+![Applications](screenshots/P6.png)
 
 ---
 
